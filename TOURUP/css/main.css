@@ -69,18 +69,6 @@ pre code {
   margin: 0 auto;
 }
 
-.header {
-  z-index: 10;
-  position: absolute;
-  top: 32px;
-  
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(90%, rgba(0, 0, 0, 0.69)), color-stop(0%, rgba(0, 0, 0, 0)));
-  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.69), rgba(0, 0, 0, 0) 90%);
-  background: -moz-linear-gradient( rgba(0,0,0,0.69), transparent 90%);
-  background: -o-linear-gradient(rgba(0,0,0,0.69), transparent 90%);
-  background: linear-gradient(rgba(0, 0, 0, 0.69), rgba(0, 0, 0, 0) 90%);
-}
-
 .main h1 {
   padding:20px 50px;
   float: left;

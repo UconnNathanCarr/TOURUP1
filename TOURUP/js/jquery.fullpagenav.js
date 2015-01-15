@@ -14,7 +14,7 @@
 !function($){
   
   var defaults = {
-    columns: 4,
+    columns: 5,
     selector: "> li",
     hover_size: "55%",
     animateDuration: 100,
